@@ -590,7 +590,7 @@
     "type": 1,
     "title": "pyload",
     "description": "Pyload downloader",
-    "logo": null,
+    "logo": "https://raw.githubusercontent.com/chaosjester/portainer_templates/master/Images/pyload.png",
     "image": "linuxserver/pyload:latest",
     "categories": ["Cloud", "Productivity", "Tools", "Other", "Web"],
     "platform": "linux",
